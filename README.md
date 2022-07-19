@@ -8,3 +8,29 @@ The original concept for this project was to have a game that worked similarly t
 This project uses Pygame.
 
 ## Prerequisites and Installation
+
+### Prerequisites
+* Download and install python 3.9 or newer from the official website 
+* Install Pygame \
+  For Windows:
+  ```sh
+  py -m pip install -U pygame --user
+  ```
+  For Mac:
+  ```sh
+  python3 -m pip install -U pygame --user
+  ```
+  For Linux(Ubuntu):
+   ```sh
+  sudo apt-get install python3-pygame
+  ```
+  
+  ### Installation
+  
+  Clone the repo and open it with an IDE that supports python.
+   ```sh
+  git clone https://github.com/RosenStefanov/Python-MazeGame.git
+  ```
+  
+  ## Usage
+  
