@@ -43,7 +43,7 @@ This project uses Pygame.
 
 ### The Running Game
 
-  The player gets spawned in the maze together whit the enemies and a mushroom. The goal is to collect as many mushrooms as you can before you get git by an enemy.
+  The player gets spawned in the maze together with the enemies and a mushroom. The goal is to collect as many mushrooms as you can before you get git by an enemy.
   
   ![game](https://user-images.githubusercontent.com/95367525/180019306-f1191817-b8f6-4d76-bdaf-919a85574f94.PNG)
 
