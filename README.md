@@ -1,5 +1,5 @@
 # Python-MazeGame
-This is a simple game made whit python for a university project.
+This is a simple game made with python for a university project.
 
 ## About The Project
 The original concept for this project was to have a game that worked similarly to the game "Pac-Man" where the playing field was in the form of a maze and the player character had to collect specific objects while there were enemies that were an obstacle to the player. The project was made for a python class in my second year of university. The project itself is a pretty simple version of what can be made using "Pac-Man" as an inspiration.
@@ -59,7 +59,7 @@ The user has the option to change the level layout by accessing the gameDifficul
 
 ![l](https://user-images.githubusercontent.com/95367525/180021915-8a5a1ca7-45ff-4faf-a5d0-5485f27cc2cf.PNG)
 
-* Whit 'SSS' is labeled the location of the score counter
+* With 'SSS' is labeled the location of the score counter
 * The walls are represented by '#'
 * The player starting position is represented by '@'
 * The enemies starting positions are represented by 'X'
